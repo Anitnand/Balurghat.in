@@ -13,7 +13,7 @@
   <form action="" method="post">
       <table>
         <tr>
-          <td>Username:</td>
+          <td></td>
           <td><input type="text" name="user" placeholder="Enter name Here"></td>
         </tr>
         <tr>
